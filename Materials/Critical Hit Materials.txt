@@ -1,0 +1,68 @@
+Critical Hit Materials and Supplies:
+
+Conductive Textiles and Supporting Materials (sparkfun.com):
+
+  0)  Heating Pad - 5x10cm COM-11288 ROHS                                $ 3.95 US           QTY: 4
+  1)  Heating Pad - 5x10cm 5x15cm COM-11289                              $ 4.95 US           QTY: 4
+  2)  Snap Assortment - 30 pack (male and female) DEV-11347              $ 2.95 US           QTY: 4
+  3)  Conductive Ribbon - 3-Conductor (1 yard) DEV-10172                 $ 4.95 US           QTY: 8
+  4)  Thermochromatic Pigment - Sapphire Blue (20g) COM-11556            $12.95 US           QTY: 1 of each
+      Thermochromatic Pigment - Red (20g) COM-11555
+      Thermochromatic Pigment - Bright Yellow (20g) COM-11557
+      Thermochromatic Pigment - Black (20g) COM-11558
+  5)  Conductive Hook & Loop Strip - 2.5 cm x 10 cm COM-11831            $ 5.95 US           QTY: 4 *
+  6)  Conductive Yarn - 300m/100g DEV-12806                              $19.95 US           QTY: 2 *
+  7)  Conductive Thread Bobbin - 30ft (Stainless Steel) DEV-10867        $ 2.95 US           QTY: 8 ***
+  8)  Needle Set TOL-10405                                               $ 1.95 US           QTY: 8
+  9)  Conductive Fabric - 12"x13" Ripstop DEV-10056                      $ 9.95 US           QTY: 4 *
+  10) Conductive Fabric - 12"x13" MedTex130 DEV-10070                    $29.95 US           QTY: 2 *
+  11) Polymer Lithium Ion Battery - 1000mAh PRT-00339                    $ 9.95 US           QTY: 8
+  12) SparkFun LiPoly Fast Charger - 5V Input PRT-08293                  $19.95 US           QTY: 2
+  13) ProtoSnap - LilyPad Development Board  DEV-11262                   $59.95 US           QTY: 4 | 8 **
+      Included on the Board:
+      1 x LilyPad Simple Board
+      1 x LilyPad Button
+      1 x LilyPad Slide Switch
+      5 x LilyPad White LED
+      1 x LilyPad RGB tri-color LED
+      1 x LilyPad Light Sensor
+      1 x LilyPad Temp Sensor
+      1 x LilyPad Buzzer
+      1 x LilyPad Vibe board
+
+      Kit Also Includes:
+      1 x LilyPad FTDI Basic
+      2 x Conductive Thread Bobbin
+      1 x Needle Set
+      1 x 110mAh LiPo Battery
+
+  14) SparkFun 9 Degrees of Freedom IMU Breakout - LSM9DS0 SEN-12636     $29.95              QTY:
+  15) Pulse Sensor SEN-11574                                             $24.95              QTY:
+  16) SparkFun Capacitive Touch Breakout - AT42QT1010 SEN-12041          $ 7.95              QTY:
+  17) Piezo Element SEN-10293                                            $ 1.50              QTY:
+  17) Piezo Vibration Sensor - Large with Mass SEN-09197                 $ 2.95              QTY:
+  18) Flex Sensor 2.2" SEN-10264                                         $ 7.95              QTY:
+  19) Force Sensitive Resistor 0.5" SEN-09375                            $ 6.95              QTY:
+  20) SoftPot Membrane Potentiometer - 50mm SEN-08680                    $ 4.95              QTY:
+  21) Tilt Sensor - AT407 SEN-10289                                      $ 1.95              QTY:
+  22) SparkFun Altitude/Pressure Sensor Breakout - MPL3115A2 SEN-11084   $14.95              QTY:
+  23) SparkFun Tilt-a-Whirl Breakout - RPI-1031 SEN-12011                $ 5.95              QTY: ?
+  24) SparkFun RGB and Gesture Sensor - APDS-9960 SEN-12787              $14.95              QTY: ?
+  25) Mini Photocell SEN-09088                                           $ 1.50              QTY:
+  26) SparkFun UV Sensor Breakout - ML8511 SEN-12705                     $12.95              QTY: ?
+  27) SparkFun RGB Light Sensor - ISL29125 SEN-12829                     $ 7.95              QTY: ?
+  28) SparkFun Triple Axis Magnetometer Breakout - HMC5883L SEN-10530    $14.95              QTY:
+  29) SparkFun MEMS Microphone Breakout - INMP401 (ADMP401) BOB-09868    $ 9.95              QTY:
+  30) Temperature Sensor - TMP36 SEN-10988                               $ 1.50              QTY:
+  31) SparkFun Humidity and Temperature Sensor - HTU21D SEN-12064        $14.95              QTY:
+  32) SparkFun ToF Range Finder (close range 10cm) - VL6180 SEN-12784    $14.95              QTY:
+  33) Ultrasonic Range Finder - LV-MaxSonar-EZ0 SEN-08502                $27.95              QTY:
+  34) Polymorph - 1000g TOL-10951                                        $34.95              QTY:
+  35) Digital Multimeter - Basic TOL-12966                               $14.95              QTY: 
+  31) LilyPad Rainbow LED Panel (5 strips of 7 colors) DEV-11843         $24.95 US           QTY: 4 ***
+
+
+  * Items also available from LESS EMF too.
+  ** Good option for the LilyPad - Kit offers all that is needed to get started building and programming
+  *** Not needed if Protosnap is purchased
+  ? Optional
