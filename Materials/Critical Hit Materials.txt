@@ -11,42 +11,42 @@ Conductive Textiles and Supporting Materials (lessemf.com):
 
 
 Sensors (sparkfun.com):
-Switches -
 
-  0)  Reed Switch - Insulated COM-10601                                  $ 1.95 US           QTY:
-  1)  Tactile Button Assortment COM-10302                                $ 4.95 US           QTY:
-  2)  SPDT Mini Power Switch COM-00102                                   $ 1.50 US           QTY:
-  3)  Thumb Joystick COM-09032                                           $ 3.95 US           QTY:
-  4)  Slide Pot - Small (10k Linear Taper)  COM-11620                    $ 1.95 US           QTY:
-  5)  Microswitch - 2 Terminal COM-09414                                 $ 1.50 US           QTY:
-  6)  Stomp Switch - DPDT COM-11151                                      $ 1.95 US           QTY:
-  7)  SparkFun Tilt-a-Whirl Breakout - RPI-1031 SEN-12011                $ 5.95              QTY:
-  8)  Tilt Sensor - AT407 SEN-10289                                      $ 1.95              QTY:
+Switches -
+  6)  Reed Switch - Insulated COM-10601                                  $ 1.95 US           QTY:
+  7)  Tactile Button Assortment COM-10302                                $ 4.95 US           QTY:
+  8)  SPDT Mini Power Switch COM-00102                                   $ 1.50 US           QTY:
+  9)  Thumb Joystick COM-09032                                           $ 3.95 US           QTY:
+  10) Slide Pot - Small (10k Linear Taper)  COM-11620                    $ 1.95 US           QTY:
+  11) Microswitch - 2 Terminal COM-09414                                 $ 1.50 US           QTY:
+  12) Stomp Switch - DPDT COM-11151                                      $ 1.95 US           QTY:
+  13) SparkFun Tilt-a-Whirl Breakout - RPI-1031 SEN-12011                $ 5.95              QTY:
+  14) Tilt Sensor - AT407 SEN-10289                                      $ 1.95              QTY:
 
 
 Proximity -
-  9)  SparkFun Capacitive Touch Breakout - AT42QT1010 SEN-12041          $ 7.95              QTY:
-  10) SparkFun Infrared Proximity Breakout - VCNL4000 BOB-10901          $ 9.95              QTY:
-  11) Infrared Proximity Sensor - Sharp GP2Y0A21YK SEN-00242             $13.95              QTY:
-  12) Infrared Sensor Jumper Wire - 3-Pin JST SEN-08733 (Part 13)        $ 1.50              QTY:
-  13) Ultrasonic Range Finder - LV-MaxSonar-EZ0 SEN-08502                $27.95              QTY:                     $ 1.50 US           QTY:
-  14) SparkFun MEMS Microphone Breakout - INMP401 (ADMP401) BOB-09868    $ 9.95              QTY:
-  15) SparkFun RGB and Gesture Sensor - APDS-9960 SEN-12787              $14.95              QTY:
-  16) SparkFun RGB Light Sensor - ISL29125 SEN-12829                     $ 7.95              QTY:
-  17) SparkFun UV Sensor Breakout - ML8511 SEN-12705                     $12.95              QTY:
-  18) Mini Photocell SEN-09088                                           $ 1.50              QTY:
-  19) SparkFun Ambient Light Sensor Breakout - TEMT6000 BOB-08688        $ 4.95              QTY:
-  20) IR Receiver Diode - TSOP38238 SEN-10266                            $ 1.95              QTY:
+  15) SparkFun Capacitive Touch Breakout - AT42QT1010 SEN-12041          $ 7.95              QTY:
+  16) SparkFun Infrared Proximity Breakout - VCNL4000 BOB-10901          $ 9.95              QTY:
+  17) Infrared Proximity Sensor - Sharp GP2Y0A21YK SEN-00242             $13.95              QTY:
+  18) Infrared Sensor Jumper Wire - 3-Pin JST SEN-08733 (Part 13)        $ 1.50              QTY:
+  19) Ultrasonic Range Finder - LV-MaxSonar-EZ0 SEN-08502                $27.95              QTY:                     $ 1.50 US           QTY:
+  20) SparkFun MEMS Microphone Breakout - INMP401 (ADMP401) BOB-09868    $ 9.95              QTY:
+  21) SparkFun RGB and Gesture Sensor - APDS-9960 SEN-12787              $14.95              QTY:
+  22) SparkFun RGB Light Sensor - ISL29125 SEN-12829                     $ 7.95              QTY:
+  23) SparkFun UV Sensor Breakout - ML8511 SEN-12705                     $12.95              QTY:
+  24) Mini Photocell SEN-09088                                           $ 1.50              QTY:
+  25) SparkFun Ambient Light Sensor Breakout - TEMT6000 BOB-08688        $ 4.95              QTY:
+  26) IR Receiver Diode - TSOP38238 SEN-10266                            $ 1.95              QTY:
 
 
 Spatial Movement (Compass, Accelerometer, Gyroscope)
-  21) SparkFun Triple Axis Magnetometer Breakout - HMC5883L SEN-10530    $14.95              QTY:
-  22) SparkFun Triple Axis Accelerometer Breakout - MMA8452Q SEN-12756   $ 9.95              QTY:
-  23) SparkFun Triple-Axis Digital-Output Gyro Breakout SEN-11977        $24.95              QTY:
-  24) SparkFun 9 Degrees of Freedom IMU Breakout - LSM9DS0 SEN-12636     $29.95              QTY:
+  27) SparkFun Triple Axis Magnetometer Breakout - HMC5883L SEN-10530    $14.95              QTY:
+  28) SparkFun Triple Axis Accelerometer Breakout - MMA8452Q SEN-12756   $ 9.95              QTY:
+  29) SparkFun Triple-Axis Digital-Output Gyro Breakout SEN-11977        $24.95              QTY:
+  30) SparkFun 9 Degrees of Freedom IMU Breakout - LSM9DS0 SEN-12636     $29.95              QTY:
 
 Force, Temperature, Pressure, Light & Vibration -
-  25)
+  31)
 
 
 
