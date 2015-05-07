@@ -20,35 +20,63 @@ Switches -
   10) Slide Pot - Small (10k Linear Taper)  COM-11620                    $ 1.95 US           QTY:
   11) Microswitch - 2 Terminal COM-09414                                 $ 1.50 US           QTY:
   12) Stomp Switch - DPDT COM-11151                                      $ 1.95 US           QTY:
-  13) SparkFun Tilt-a-Whirl Breakout - RPI-1031 SEN-12011                $ 5.95              QTY:
-  14) Tilt Sensor - AT407 SEN-10289                                      $ 1.95              QTY:
-
+  13) SparkFun Tilt-a-Whirl Breakout - RPI-1031 SEN-12011                $ 5.95 US           QTY:
+  14) Tilt Sensor - AT407 SEN-10289                                      $ 1.95 US           QTY:
 
 Proximity -
-  15) SparkFun Capacitive Touch Breakout - AT42QT1010 SEN-12041          $ 7.95              QTY:
-  16) SparkFun Infrared Proximity Breakout - VCNL4000 BOB-10901          $ 9.95              QTY:
-  17) Infrared Proximity Sensor - Sharp GP2Y0A21YK SEN-00242             $13.95              QTY:
-  18) Infrared Sensor Jumper Wire - 3-Pin JST SEN-08733 (Part 13)        $ 1.50              QTY:
-  19) Ultrasonic Range Finder - LV-MaxSonar-EZ0 SEN-08502                $27.95              QTY:                     $ 1.50 US           QTY:
-  20) SparkFun MEMS Microphone Breakout - INMP401 (ADMP401) BOB-09868    $ 9.95              QTY:
-  21) SparkFun RGB and Gesture Sensor - APDS-9960 SEN-12787              $14.95              QTY:
-  22) SparkFun RGB Light Sensor - ISL29125 SEN-12829                     $ 7.95              QTY:
-  23) SparkFun UV Sensor Breakout - ML8511 SEN-12705                     $12.95              QTY:
-  24) Mini Photocell SEN-09088                                           $ 1.50              QTY:
-  25) SparkFun Ambient Light Sensor Breakout - TEMT6000 BOB-08688        $ 4.95              QTY:
-  26) IR Receiver Diode - TSOP38238 SEN-10266                            $ 1.95              QTY:
-
+  15) SparkFun Capacitive Touch Breakout - AT42QT1010 SEN-12041          $ 7.95 US           QTY:
+  16) SparkFun Infrared Proximity Breakout - VCNL4000 BOB-10901          $ 9.95 US           QTY:
+  17) Infrared Proximity Sensor - Sharp GP2Y0A21YK SEN-00242             $13.95 US           QTY:
+  18) Infrared Sensor Jumper Wire - 3-Pin JST SEN-08733 (Part 13)        $ 1.50 US           QTY:
+  19) Ultrasonic Range Finder - LV-MaxSonar-EZ0 SEN-08502                $27.95 US           QTY:                     $ 1.50 US           QTY:
+  20) SparkFun MEMS Microphone Breakout - INMP401 (ADMP401) BOB-09868    $ 9.95 US           QTY:
+  21) SparkFun RGB and Gesture Sensor - APDS-9960 SEN-12787              $14.95 US           QTY:
+  22) SparkFun RGB Light Sensor - ISL29125 SEN-12829                     $ 7.95 US           QTY:
+  23) SparkFun UV Sensor Breakout - ML8511 SEN-12705                     $12.95 US           QTY:
+  24) Mini Photocell SEN-09088                                           $ 1.50 US           QTY:
+  25) SparkFun Ambient Light Sensor Breakout - TEMT6000 BOB-08688        $ 4.95 US           QTY:
+  26) IR Receiver Diode - TSOP38238 SEN-10266                            $ 1.95 US           QTY:
 
 Spatial Movement (Compass, Accelerometer, Gyroscope)
-  27) SparkFun Triple Axis Magnetometer Breakout - HMC5883L SEN-10530    $14.95              QTY:
-  28) SparkFun Triple Axis Accelerometer Breakout - MMA8452Q SEN-12756   $ 9.95              QTY:
-  29) SparkFun Triple-Axis Digital-Output Gyro Breakout SEN-11977        $24.95              QTY:
-  30) SparkFun 9 Degrees of Freedom IMU Breakout - LSM9DS0 SEN-12636     $29.95              QTY:
+  27) SparkFun Triple Axis Magnetometer Breakout - HMC5883L SEN-10530    $14.95 US           QTY:
+  28) SparkFun Triple Axis Accelerometer Breakout - MMA8452Q SEN-12756   $ 9.95 US           QTY:
+  29) SparkFun Triple-Axis Digital-Output Gyro Breakout SEN-11977        $24.95 US           QTY:
+  30) SparkFun 9 Degrees of Freedom IMU Breakout - LSM9DS0 SEN-12636     $29.95 US           QTY:
 
 Force, Temperature, Pressure, Light & Vibration -
-  31)
+  31) Piezo Vibration Sensor - Large with Mass SEN-09197                 $ 2.95 US           QTY:
+  32) Piezo Element SEN-10293                                            $ 1.50 US           QTY:
+  33) Force Sensitive Resistor 0.5" SEN-09375                            $ 6.95 US           QTY:
+  34) Flex Sensor 2.2" SEN-10264                                         $ 7.95 US           QTY:
+  35) SoftPot Membrane Potentiometer - 50mm SEN-08680                    $ 4.95 US           QTY:
+  36) SparkFun Altitude/Pressure Sensor Breakout - MPL3115A2 SEN-11084   $14.95 US           QTY:
+  37) SparkFun Humidity and Temperature Sensor - HTU21D SEN-12064        $14.95 US           QTY:
+  38) Temperature Sensor - TMP36 SEN-10988                               $ 1.50 US           QTY:
+  39) SparkFun Barometric Pressure Sensor Breakout - BMP180 SEN-11824    $ 9.95 US           QTY:
+  40) Pulse Sensor SEN-11574                                             $24.95 US           QTY:
 
 
+Alternative Option:
+SparkFun Sensor Kit DEV-12797                                            $139.95 US          QTY:
+  Kit Includes:
+  Triple Axis Magnetometer Breakout - HMC5883L
+  Triple Axis Accelerometer Breakout - MMA8452Q
+  Triple-Axis Digital-Output Gyro ITG-3200
+  Large Piezo Vibration Sensor - With Mass
+  Reed Switch
+  0.25" Magnet Square
+  0.5" Force Sensitive Resistor
+  PIR Motion Sensor
+  Ultrasonic Rangefinder - Maxbotix LV-EZ1
+  HTU21D Humidity Sensor
+  IR Receiver Breakout Board
+  Mini Photocell
+  Optical Detector/Phototransistor
+  Altitude/Pressure Sensor - MPL3115A2
+  Flex Sensor
+  SoftPot
+  Resistor 10K Ohm 1/6th Watt PTH - 20 Pack
+  Resistor 1.0M Ohm 1/6 Watt PTH
 
 
 
@@ -66,6 +94,8 @@ Force, Temperature, Pressure, Light & Vibration -
   8)  Needle Set TOL-10405                                               $ 1.95 US           QTY: 8
   11) Polymer Lithium Ion Battery - 1000mAh PRT-00339                    $ 9.95 US           QTY: 8
   12) SparkFun LiPoly Fast Charger - 5V Input PRT-08293                  $19.95 US           QTY: 2
+
+
   13) ProtoSnap - LilyPad Development Board  DEV-11262                   $59.95 US           QTY: 4 | 8 **
       Included on the Board:
       1 x LilyPad Simple Board
@@ -85,20 +115,7 @@ Force, Temperature, Pressure, Light & Vibration -
       1 x 110mAh LiPo Battery
 
 
-  15) Pulse Sensor SEN-11574                                             $24.95              QTY:
 
-  17) Piezo Element SEN-10293                                            $ 1.50              QTY:
-  17) Piezo Vibration Sensor - Large with Mass SEN-09197                 $ 2.95              QTY:
-  18) Flex Sensor 2.2" SEN-10264                                         $ 7.95              QTY:
-  19) Force Sensitive Resistor 0.5" SEN-09375                            $ 6.95              QTY:
-  20) SoftPot Membrane Potentiometer - 50mm SEN-08680                    $ 4.95              QTY:
-  21)
-  22) SparkFun Altitude/Pressure Sensor Breakout - MPL3115A2 SEN-11084   $14.95              QTY:
-
-
-
-  30) Temperature Sensor - TMP36 SEN-10988                               $ 1.50              QTY:
-  31) SparkFun Humidity and Temperature Sensor - HTU21D SEN-12064        $14.95              QTY:
 
 
   34) Polymorph - 1000g TOL-10951                                        $34.95              QTY:
