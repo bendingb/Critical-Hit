@@ -28,7 +28,7 @@ Proximity -
   16) SparkFun Infrared Proximity Breakout - VCNL4000 BOB-10901          $ 9.95 US           QTY:
   17) Infrared Proximity Sensor - Sharp GP2Y0A21YK SEN-00242             $13.95 US           QTY:
   18) Infrared Sensor Jumper Wire - 3-Pin JST SEN-08733 (Part 13)        $ 1.50 US           QTY:
-  19) Ultrasonic Range Finder - LV-MaxSonar-EZ0 SEN-08502                $27.95 US           QTY: *                   $ 1.50 US           QTY:
+  19) Ultrasonic Range Finder - LV-MaxSonar-EZ0 SEN-08502                $27.95 US           QTY: *
   20) SparkFun MEMS Microphone Breakout - INMP401 (ADMP401) BOB-09868    $ 9.95 US           QTY:
   21) SparkFun RGB and Gesture Sensor - APDS-9960 SEN-12787              $14.95 US           QTY:
   22) SparkFun RGB Light Sensor - ISL29125 SEN-12829                     $ 7.95 US           QTY:
