@@ -1,6 +1,56 @@
 Critical Hit Materials and Supplies:
 
-Conductive Textiles and Supporting Materials (sparkfun.com):
+Conductive Textiles and Supporting Materials (lessemf.com):
+
+  0)  Hertz Cloth  (Cat. #A1216) 59" Wide                               $11.95/ Lin. Foot   QTY:
+  1)  RIPSTOP SILVER FABRIC (Cat. #A322) 59" Wide                       $17.95/ Lin. Foot   QTY:
+  2)  Shieldit Super 13" (Cat. #A1220) (Hot Melt Glue on Reverse)       $ 8.95/ Lin. Foot   QTY:
+  3)  SilverSpun Yarn (Cat. #A237)                                      $25.00/ Lin. Foot   QTY:
+  4)  Conductive Thread (Cat. #A1226)                                   $39.95              QTY:
+  5)  QTC™ (Cat. #A253)                                                 $ 2.00              QTY:
+
+
+Sensors (sparkfun.com):
+Switches -
+
+  0)  Reed Switch - Insulated COM-10601                                  $ 1.95 US           QTY:
+  1)  Tactile Button Assortment COM-10302                                $ 4.95 US           QTY:
+  2)  SPDT Mini Power Switch COM-00102                                   $ 1.50 US           QTY:
+  3)  Thumb Joystick COM-09032                                           $ 3.95 US           QTY:
+  4)  Slide Pot - Small (10k Linear Taper)  COM-11620                    $ 1.95 US           QTY:
+  5)  Microswitch - 2 Terminal COM-09414                                 $ 1.50 US           QTY:
+  6)  Stomp Switch - DPDT COM-11151                                      $ 1.95 US           QTY:
+  7)  SparkFun Tilt-a-Whirl Breakout - RPI-1031 SEN-12011                $ 5.95              QTY:
+  8)  Tilt Sensor - AT407 SEN-10289                                      $ 1.95              QTY:
+
+
+Proximity -
+  9)  SparkFun Capacitive Touch Breakout - AT42QT1010 SEN-12041          $ 7.95              QTY:
+  10) SparkFun Infrared Proximity Breakout - VCNL4000 BOB-10901          $ 9.95              QTY:
+  11) Infrared Proximity Sensor - Sharp GP2Y0A21YK SEN-00242             $13.95              QTY:
+  12) Infrared Sensor Jumper Wire - 3-Pin JST SEN-08733 (Part 13)        $ 1.50              QTY:
+  13) Ultrasonic Range Finder - LV-MaxSonar-EZ0 SEN-08502                $27.95              QTY:                     $ 1.50 US           QTY:
+  14) SparkFun MEMS Microphone Breakout - INMP401 (ADMP401) BOB-09868    $ 9.95              QTY:
+  15) SparkFun RGB and Gesture Sensor - APDS-9960 SEN-12787              $14.95              QTY:
+  16) SparkFun RGB Light Sensor - ISL29125 SEN-12829                     $ 7.95              QTY:
+  17) SparkFun UV Sensor Breakout - ML8511 SEN-12705                     $12.95              QTY:
+  18) Mini Photocell SEN-09088                                           $ 1.50              QTY:
+  19) SparkFun Ambient Light Sensor Breakout - TEMT6000 BOB-08688        $ 4.95              QTY:
+  20) IR Receiver Diode - TSOP38238 SEN-10266                            $ 1.95              QTY:
+
+
+Spatial Movement (Compass, Accelerometer, Gyroscope)
+  21) SparkFun Triple Axis Magnetometer Breakout - HMC5883L SEN-10530    $14.95              QTY:
+  22) SparkFun Triple Axis Accelerometer Breakout - MMA8452Q SEN-12756   $ 9.95              QTY:
+  23) SparkFun Triple-Axis Digital-Output Gyro Breakout SEN-11977        $24.95              QTY:
+  24) SparkFun 9 Degrees of Freedom IMU Breakout - LSM9DS0 SEN-12636     $29.95              QTY:
+
+Force, Temperature, Pressure, Light & Vibration -
+  25)
+
+
+
+
 
   0)  Heating Pad - 5x10cm COM-11288 ROHS                                $ 3.95 US           QTY: 4
   1)  Heating Pad - 5x10cm 5x15cm COM-11289                              $ 4.95 US           QTY: 4
@@ -14,8 +64,6 @@ Conductive Textiles and Supporting Materials (sparkfun.com):
   6)  Conductive Yarn - 300m/100g DEV-12806                              $19.95 US           QTY: 2 *
   7)  Conductive Thread Bobbin - 30ft (Stainless Steel) DEV-10867        $ 2.95 US           QTY: 8 ***
   8)  Needle Set TOL-10405                                               $ 1.95 US           QTY: 8
-  9)  Conductive Fabric - 12"x13" Ripstop DEV-10056                      $ 9.95 US           QTY: 4 *
-  10) Conductive Fabric - 12"x13" MedTex130 DEV-10070                    $29.95 US           QTY: 2 *
   11) Polymer Lithium Ion Battery - 1000mAh PRT-00339                    $ 9.95 US           QTY: 8
   12) SparkFun LiPoly Fast Charger - 5V Input PRT-08293                  $19.95 US           QTY: 2
   13) ProtoSnap - LilyPad Development Board  DEV-11262                   $59.95 US           QTY: 4 | 8 **
@@ -36,29 +84,25 @@ Conductive Textiles and Supporting Materials (sparkfun.com):
       1 x Needle Set
       1 x 110mAh LiPo Battery
 
-  14) SparkFun 9 Degrees of Freedom IMU Breakout - LSM9DS0 SEN-12636     $29.95              QTY:
+
   15) Pulse Sensor SEN-11574                                             $24.95              QTY:
-  16) SparkFun Capacitive Touch Breakout - AT42QT1010 SEN-12041          $ 7.95              QTY:
+
   17) Piezo Element SEN-10293                                            $ 1.50              QTY:
   17) Piezo Vibration Sensor - Large with Mass SEN-09197                 $ 2.95              QTY:
   18) Flex Sensor 2.2" SEN-10264                                         $ 7.95              QTY:
   19) Force Sensitive Resistor 0.5" SEN-09375                            $ 6.95              QTY:
   20) SoftPot Membrane Potentiometer - 50mm SEN-08680                    $ 4.95              QTY:
-  21) Tilt Sensor - AT407 SEN-10289                                      $ 1.95              QTY:
+  21)
   22) SparkFun Altitude/Pressure Sensor Breakout - MPL3115A2 SEN-11084   $14.95              QTY:
-  23) SparkFun Tilt-a-Whirl Breakout - RPI-1031 SEN-12011                $ 5.95              QTY: ?
-  24) SparkFun RGB and Gesture Sensor - APDS-9960 SEN-12787              $14.95              QTY: ?
-  25) Mini Photocell SEN-09088                                           $ 1.50              QTY:
-  26) SparkFun UV Sensor Breakout - ML8511 SEN-12705                     $12.95              QTY: ?
-  27) SparkFun RGB Light Sensor - ISL29125 SEN-12829                     $ 7.95              QTY: ?
-  28) SparkFun Triple Axis Magnetometer Breakout - HMC5883L SEN-10530    $14.95              QTY:
-  29) SparkFun MEMS Microphone Breakout - INMP401 (ADMP401) BOB-09868    $ 9.95              QTY:
+
+
+
   30) Temperature Sensor - TMP36 SEN-10988                               $ 1.50              QTY:
   31) SparkFun Humidity and Temperature Sensor - HTU21D SEN-12064        $14.95              QTY:
-  32) SparkFun ToF Range Finder (close range 10cm) - VL6180 SEN-12784    $14.95              QTY:
-  33) Ultrasonic Range Finder - LV-MaxSonar-EZ0 SEN-08502                $27.95              QTY:
+
+
   34) Polymorph - 1000g TOL-10951                                        $34.95              QTY:
-  35) Digital Multimeter - Basic TOL-12966                               $14.95              QTY: 
+  35) Digital Multimeter - Basic TOL-12966                               $14.95              QTY:
   31) LilyPad Rainbow LED Panel (5 strips of 7 colors) DEV-11843         $24.95 US           QTY: 4 ***
 
 
