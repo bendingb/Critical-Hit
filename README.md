@@ -24,22 +24,22 @@ The Critical Hit git repo is intended to a resource for all Critial Hit particip
 <li><a href="http://www.kobakant.at/DIY/" target="_blank">kobakant</a> - how to get what you want...</li>
 <li><a href="hlt.media.mit.edu" target="_blank">High-Low Tech</a></li>
 <li><a href="web.media.mit.edu/~jieqi/" target="_blank">Jie Qi’s</a></li>
-<li><a href="openmaterials.org/" target="_blank">Open Materials</a></li>
-<li><a href="fashioningtech.com/" target="_blank">Fashioning Tech</a></li>
+<li><a href="www.openmaterials.org/" target="_blank">Open Materials</a></li>
+<li><a href="www.fashioningtech.com/" target="_blank">Fashioning Tech</a></li>
 <li><a href="www.talk2myshirt.com/blog/" target="_blank">Talk2MyShirt</a></li>
 <li>Horowitz and Hill (1989). The Arts of Electronics (2nd ed.). Cambridge UP. </li>
 </ul>
 
 <h3> Shops </h3>
 <ul>
-<li><a href="spikenzielabs.com/" target="_blank">Spikenzie Labs</a> * Local in Montreal</li>
-<li><a href="abra-electronics.com" target="_blank">Abra Electronics</a> * Local in Montreal</li>
-<li><a href="addison-electronique.com" target="_blank">Addison</a> * Local in Montreal</li>
+<li><a href="www.spikenzielabs.com/" target="_blank">Spikenzie Labs</a> * Local in Montreal</li>
+<li><a href="www.abra-electronics.com" target="_blank">Abra Electronics</a> * Local in Montreal</li>
+<li><a href="www.addison-electronique.com" target="_blank">Addison</a> * Local in Montreal</li>
 <li><a href="www.robotshop.com/ca/" target="_blank">Robotshop</a>  * Local(ish) in Quebec</li>
 
-<li><a href="lessemf.com/" target="_blank">LessEMF</a></li>
-<li><a href="plugandwear.com/" target="_blank">Plug and Wear</a></li>
-<li><a href="sparkfun.com/" target="_blank">Sparkfun</a></li>
+<li><a href="www.lessemf.com/" target="_blank">LessEMF</a></li>
+<li><a href="http://www.plugandwear.com/default.asp" target="_blank">Plug and Wear</a></li>
+<li><a href="www.sparkfun.com/" target="_blank">Sparkfun</a></li>
 <li><a href="http://adafruit.com/" target="_blank">Ada Fruit</a></li>
 <li><a href="store.arduino.cc/" target="_blank">Arduino Online Store</a></li>
 <li><a href="www.talk2myshirt.com/blog/" target="_blank">Talk2MyShirt</a></li>
