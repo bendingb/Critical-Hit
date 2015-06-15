@@ -84,7 +84,7 @@ SparkFun Sensor Kit DEV-12797                                            $139.95
 Actuators (sparkfun.com):
 
   0)  Heating Pad - 5x10cm COM-11288 ROHS                                $ 3.95 US           QTY:
-  1)  Heating Pad - 5x10cm 5x15cm COM-11289                              $ 4.95 US           QTY:
+  1)  Heating Pad - 5x15cm COM-11289                                     $ 4.95 US           QTY:
   2)  Vibration Motor ROB-08449                                          $ 4.95 US           QTY:
   4)  Thermochromatic Pigment - Sapphire Blue (20g) COM-11556            $12.95 US           QTY:
       Thermochromatic Pigment - Red (20g) COM-11555
