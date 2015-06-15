@@ -20,7 +20,7 @@ The Critical Hit git repo is intended to a resource for all Critial Hit particip
 
 <h1>CRITICAL HIT ONLINE RESOURCES</h1>
 <ul>
-<li><a href="http://www.kobakant.at/DIY/" target="_blank">kobakant: how to get what you want...</a></li>
+<li><a href="http://www.kobakant.at/DIY/" target="_blank">kobakant</a> - how to get what you want...</li>
 <li><a href="http://lessemf.com" target="_blank">Less EMF</a> Conductive Textiles</li>
 <li>and ... </li>
 </ul>
