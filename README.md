@@ -18,9 +18,40 @@ The Critical Hit git repo is intended to a resource for all Critial Hit particip
 <li>and ... </li>
 </ul>
 
-<h1>CRITICAL HIT ONLINE RESOURCES</h1>
+<h1>CRITICAL HIT RESOURCES</h1>
+<h3> References </h3>
 <ul>
 <li><a href="http://www.kobakant.at/DIY/" target="_blank">kobakant</a> - how to get what you want...</li>
-<li><a href="http://lessemf.com" target="_blank">Less EMF</a> Conductive Textiles</li>
-<li>and ... </li>
+<li><a href="hlt.media.mit.edu" target="_blank">High-Low Tech</a></li>
+<li><a href="web.media.mit.edu/~jieqi/" target="_blank">Jie Qi’s</a></li>
+<li><a href="openmaterials.org/" target="_blank">Open Materials</a></li>
+<li><a href="fashioningtech.com/" target="_blank">Fashioning Tech</a></li>
+<li><a href="www.talk2myshirt.com/blog/" target="_blank">Talk2MyShirt</a></li>
+<li>Horowitz and Hill (1989). The Arts of Electronics (2nd ed.). Cambridge UP. </li>
+</ul>
+
+<h3> Shops </h3>
+<ul>
+<li><a href="spikenzielabs.com/" target="_blank">Spikenzie Labs</a> * Local in Montreal</li>
+<li><a href="abra-electronics.com" target="_blank">Abra Electronics</a> * Local in Montreal</li>
+<li><a href="addison-electronique.com" target="_blank">Addison</a> * Local in Montreal</li>
+<li><a href="www.robotshop.com/ca/" target="_blank">Robotshop</a>  * Local(ish) in Quebec</li>
+
+<li><a href="lessemf.com/" target="_blank">LessEMF</a></li>
+<li><a href="plugandwear.com/" target="_blank">Plug and Wear</a></li>
+<li><a href="sparkfun.com/" target="_blank">Sparkfun</a></li>
+<li><a href="http://adafruit.com/" target="_blank">Ada Fruit</a></li>
+<li><a href="store.arduino.cc/" target="_blank">Arduino Online Store</a></li>
+<li><a href="www.talk2myshirt.com/blog/" target="_blank">Talk2MyShirt</a></li>
+<li>Horowitz and Hill (1989). The Arts of Electronics (2nd ed.). Cambridge UP. </li>
+</ul>
+
+<h3> Conductive Materials </h3>
+<ul>
+<li><a href="http://karl-grimm.com/" target="_blank">Karl-Grimm</a> Conductive Thread (solderable)</li>
+<li><a href="http://statex.de/index.php/en/fibres-and-yarns/item/153-shieldex®-garne" target="_blank">Statex</a> Silver plated nylon thread (not solderable) 235/34</li>
+<li><a href="https://www.sparkfun.com/products/10120" target="_blank">Bekaert</a> Stainless steel thread (not solderable, good for heating)</li>
+<li><a href="http://statex.de/index.php/en/shieldex-2/flaechenware" target="_blank">Statex</a> Silver plated lycra (knit stretch conductive fabric) * LessEMF</li>
+<li><a href="http://statex.de/index.php/en/shieldex-2/flaechenware" target="_blank">Statex</a> Silver plated rip-stop fabric (woven conductive fabric) * LessEMF</li>
+<li><a href="http://fine-silver-productsnet.com" target="_blank">ShieldEx</a></li>
 </ul>
