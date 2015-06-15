@@ -37,7 +37,7 @@ The Critical Hit git repo is intended to a resource for all Critial Hit particip
 <ul>
 <li><a href="http://www.kobakant.at/DIY/" target="_blank">kobakant</a> - how to get what you want...</li>
 <li><a href="http://hlt.media.mit.edu" target="_blank">High-Low Tech</a></li>
-<li><a href="http://web.media.mit.edu/~jieqi/" target="_blank">Jie Qi’s</a></li>
+<!-- <li><a href="http://web.media.mit.edu/~jieqi/" target="_blank">Jie Qi’s</a></li>-->
 <li><a href="http://www.openmaterials.org/" target="_blank">Open Materials</a></li>
 <li><a href="http://www.fashioningtech.com/" target="_blank">Fashioning Tech</a></li>
 <li><a href="http://www.talk2myshirt.com/blog/" target="_blank">Talk2MyShirt</a></li>
