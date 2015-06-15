@@ -21,7 +21,7 @@ The Critical Hit git repo is intended to a resource for all Critial Hit particip
 <h1>CRITICAL HIT RESOURCES</h1>
 <h3> Shops </h3>
 <ul>
-<li><a href="www.spikenzielabs.com/" target="_blank">Spikenzie Labs</a> * Local in Montreal</li>
+<li><a href="http://www.spikenzielabs.com/" target="_blank">Spikenzie Labs</a> * Local in Montreal</li>
 <li><a href="www.abra-electronics.com" target="_blank">Abra Electronics</a> * Local in Montreal</li>
 <li><a href="www.addison-electronique.com" target="_blank">Addison</a> * Local in Montreal</li>
 <li><a href="www.robotshop.com/ca/" target="_blank">Robotshop</a>  * Local(ish) in Quebec</li>
