@@ -14,8 +14,8 @@ The Critical Hit git repo is intended to a resource for all Critial Hit particip
 <li><a href="https://www.oculus.com/en-us/rift/" target="_blank">Oculus Rift</a></li>
 <li><a href="https://getpebble.com/#/.dco0k6:Fuqt" target="_blank">Pebble</a></li>
 <li><a href="http://www.choosemuse.com" target="_blank">Muse</a></li>
+<li><a href="http://nowtech.hu" target="_blank">Gyroset</a></li>
 <li>Wireless Communication - Xbee / BLE / WiFi </li>
-<li>and ... </li>
 </ul>
 
 <h1>CRITICAL HIT RESOURCES</h1>
